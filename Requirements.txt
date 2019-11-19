@@ -16,6 +16,8 @@ idna==2.8
 Jinja2==2.10.3
 MarkupSafe==1.1.1
 more-itertools==7.2.0
+npm==0.1.1
+optional-django==0.1.0
 packaging==19.2
 parse==1.12.1
 parse-type==0.5.2
